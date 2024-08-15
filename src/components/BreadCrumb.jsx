@@ -18,4 +18,4 @@ const BreadCrumb = (props) => {
   )
 }
 
-export default BreadCrumb
+export default BreadCrumb;
