@@ -110,7 +110,7 @@ const Checkout = () => {
             key: process.env.REACT_APP_RAZORPAY_KEY_ID, // Enter the Key ID generated from the Dashboard
             amount: amount,
             currency: currency,
-            name: "Mera Project",
+            name: "EasyBazaar",
             description: "Test Transaction",
             // image: { logo },
             order_id: order_id,
@@ -140,12 +140,12 @@ const Checkout = () => {
                 dispatch(resetState());
             },
             prefill: {
-                name: "Mera Project",
-                email: "meraproject@example.com",
+                name: "EasyBazaar",
+                email: "easybazaar@example.com",
                 contact: "9999999999",
             },
             notes: {
-                address: "Mera Project Corporate Office",
+                address: "EasyBazaar Corporate Office",
             },
             theme: {
                 color: "#61dafb",
