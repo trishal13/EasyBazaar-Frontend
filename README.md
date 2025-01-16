@@ -1,3 +1,23 @@
+# EasyBazaar Frontend
+
+This repository contains the frontend application for EasyBazaar, an e-commerce platform designed to connect customers with local vendors, providing a seamless shopping experience.
+
+## Features
+
+- **Product Browsing**: View and search for products across various categories.
+- **User Authentication**: Register and log in to access personalized features.
+- **Shopping Cart**: Add products to the cart and manage quantities.
+- **Order Placement**: Place orders and view order history.
+
+## Technologies Used
+
+- **React.js**: JavaScript library for building user interfaces.
+- **Redux**: State management for React applications.
+- **React Router**: Routing library for React applications.
+- **Axios**: Promise-based HTTP client for API requests.
+- **Bootstrap**: CSS framework for responsive design.
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
