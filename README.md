@@ -17,6 +17,9 @@ This repository contains the frontend application for EasyBazaar, an e-commerce 
 - **Axios**: Promise-based HTTP client for API requests.
 - **Bootstrap**: CSS framework for responsive design.
 
+**Backend GitHub Repo**: https://github.com/trishal13/Ecommerce-Backend
+
+**EasyBazaar Admin GitHub Repo**: https://github.com/trishal13/EasyBazaar-Admin
 
 # Getting Started with Create React App and Redux
 
